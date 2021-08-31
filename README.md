@@ -2,7 +2,7 @@
 
 Thanks for checking out my Github profile! 
 
-I am Andrew and currently working on building up my Frontend Portfolio specialising in React & Vue down the road.
+I am Andrew and currently working on building my Frontend Portfolio specialising in React & Vue.
 
 As of 29 August 2021, I have begun the #100DaysOfCode challenge using the designs provided by FrontendMentor.io (FEM) solely making use of Vanilla CSS & JavaScript.
 
