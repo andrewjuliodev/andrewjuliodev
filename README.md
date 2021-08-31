@@ -12,7 +12,7 @@ Being creative is one of my passions, ranging from cooking to making jewellery o
 
 Feel free to browse my work, check out my [Website](http://andrewjulio.com):man_technologist: and to contact me here on Github or follow me on [Twitter](https://twitter.com/Andrew):slightly_smiling_face:
 
-##:point_left:Don't forget to hit that Follow button!
+:point_left:##Don't forget to hit that Follow button!
 <!--
 **andrewjuliodev/andrewjuliodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
