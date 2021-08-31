@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Thanks for checking out my Github profile! 
+
+
+
+
+
+
+
+:point_left:Don't forget to hit that!
 <!--
 **andrewjuliodev/andrewjuliodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
