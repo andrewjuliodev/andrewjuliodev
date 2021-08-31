@@ -10,7 +10,7 @@ FEM provides free projects with designs including the images and links to the fo
 
 Being creative is one of my passions, ranging from cooking to making jewellery or anything else really. Life is a challenge and it's always better when one chooses their own challenges and discovers new depths of understanding and motivation while better preparing for the unknown!
 
-Feel free to browse my work, check out my [Website](http://andrewjulio.com):man_technologist: and follow me on [Twitter](https://twitter.com/Andrew):bird:
+Feel free to browse my work, check out my [Website](http://andrewjulio.com):man_technologist: and follow me on [Twitter](https://twitter.com/Andrew):upside_down_face:
 
 :point_left:Don't forget to hit that Follow button!
 <!--
